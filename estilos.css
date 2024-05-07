@@ -1,0 +1,40 @@
+.fondo {
+  background-color: lightcyan;
+}
+
+.miTexto {
+  font-size: 50px;
+  color: darkorange;
+}
+
+
+
+
+.imagen {
+  width: 200px;
+}
+
+#principal {
+  font-size: 80px;
+  color: crimson;
+}
+
+
+.borde{
+  border: 2px solid black;
+  width: 60vw;
+  margin: auto;
+  padding: 2em;
+}
+
+.cards{
+  border: 2px solid black;
+  width: fit-content;
+  padding: 0em 1em 1em 1em;
+  border-radius: 15%;
+  transition: 1s;
+}
+
+.cards:hover{
+  background-color: blue;
+}
